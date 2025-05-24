@@ -2,6 +2,8 @@ Analysis and Model on War based on THOR dataset (Vietname War, US War,..)
 
 This project is a machine learning application designed to predict the outcome of military air missions based on various mission parameters.
 
+* Library: pandas, matplotlib, seaborn, sklearn, numpy
+
 Here are steps I have worked on:
 
 1. Data Preparation & Feature Engineering
